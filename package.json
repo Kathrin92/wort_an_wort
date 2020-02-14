@@ -1,0 +1,23 @@
+{
+  "name": "wort_an_wort",
+  "version": "1.0.0",
+  "description": "Virtuelle Ausstellung",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berlinum/wort_an_wort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berlinum/wort_an_wort/issues"
+  },
+  "homepage": "https://github.com/berlinum/wort_an_wort#readme",
+  "dependencies": {
+    "htmlhint": "^0.11.0",
+    "prettier": "^1.19.1"
+  }
+}
